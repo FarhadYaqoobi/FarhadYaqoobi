@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 💫 About Me: FARHAD YAQOOBI
 🔭I'm working in Islamic Bank Afghanistan  as software engineer <br>🐱‍🏍I'm also working on my startup project  
 
 
